@@ -1,7 +1,6 @@
 ![image](https://github.com/Nfnashra/Nfnashra/assets/138689211/4970ef34-7508-47b2-a427-1c0ffb4adc62)
 
-<h1 align="center">Hi 👋, I'm Nashra Farid</h1>
-<h3 align="center">DevOps Engineer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nfnashra&label=Profile%20views&color=0e75b6&style=flat" alt="nfnashra" /> </p>
 
